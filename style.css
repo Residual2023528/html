@@ -1,0 +1,21 @@
+.center{
+  display: flex;
+  /* 水平置中 */
+  justify-content: center;    
+  /* 垂直置中 */
+  align-content: center;      
+  flex-wrap: wrap;  
+}
+
+.Open_Sans_font{
+font-family: 'Open Sans', sans-serif;
+}
+
+body{
+font-family: 'Open Sans', sans-serif;
+}
+
+.backgroundtitle{
+  background-image: url("https://cdn.discordapp.com/attachments/1134309294779666452/1135771300724494336/novaskin-wallpaper-myvillage_adobe_express.png");
+  
+}
