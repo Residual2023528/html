@@ -7,15 +7,36 @@
   flex-wrap: wrap;  
 }
 
-.Open_Sans_font{
-font-family: 'Open Sans', sans-serif;
-}
-
 body{
 font-family: 'Open Sans', sans-serif;
 }
 
-.backgroundtitle{
-  background-image: url("https://cdn.discordapp.com/attachments/1134309294779666452/1135771300724494336/novaskin-wallpaper-myvillage_adobe_express.png");
-  
+.size-30{
+  font-size:30px
+}
+
+.size-20{
+  font-size:20px
+}
+
+.size-10{
+  font-size:10px
+}
+
+.size-5{
+  font-size:5px
+}
+
+
+.bold{
+  font-weight:bold;
+}
+
+.lighter{
+  font-weight:lighter;
+}
+
+.left{
+  float:left;
+  position: relative;top:21px;
 }
