@@ -40,3 +40,19 @@ font-family: 'Open Sans', sans-serif;
   float:left;
   position: relative;top:21px;
 }
+
+.card {
+  display: flex;
+  gap: 16px;
+  justify-content: center;
+  align-items: center;
+}
+.card img {
+  width: 60px;
+}
+
+.header {
+  padding-top: 250px;
+  padding-bottom: 250px;
+  text-align: center;
+}
